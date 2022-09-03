@@ -1,0 +1,136 @@
+.T{
+    border-color :black;
+    border : solid 1px;
+    font-size:large;
+    width:100%;
+}
+.T1{
+    border-color :black;
+    border : solid 1px;
+    font-size:large;
+    background-color: rgba(255, 205, 122,0.35);
+}
+.T2{
+    border-color :black;
+    border-width: 1.3px;
+    /*border : solid 1px;*/
+    font-size:large;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ss{
+    text-align: center;
+    font-size : xx-large;
+    margin-bottom: 2%;
+}
+.T2 th{
+    border-width: 1px;
+    font-size:x-large;
+    background-color: rgb(136, 197, 255);
+}
+.T2 td{
+    border-width: 1px;
+    border-bottom: none !important;
+    border-top: none !important;
+}
+.se{
+    text-align: center;
+    font-size : xx-large;
+
+}
+#pa{
+    display:flex;
+    justify-content:center;
+}
+#pi{
+    width:100%;
+    max-width:17%;/*最大幅*/
+}
+
+.Nperiod{
+    text-align:end;
+}
+.nom1{
+    background-color: rgb(136, 197, 255);
+}
+.nom2{
+    background-color: rgba(255, 205, 122,0.35);
+}
+
+#olabLogo{
+    width:70px;
+    height:70px;
+}
+
+#org{
+    font-size:13px;
+    margin-top:10px;
+    margin-bottom:0px;
+}
+
+#lab{
+    font-size:24px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#hr1{
+    height: 4px;
+    background-color: #3D618A;
+    border: none;
+    margin-bottom:30px;
+}
+
+#title{
+    font-size : xx-large;
+    width:fit-content;
+    border-bottom: solid 2px #3D618A;
+    /*margin-right: auto;
+    margin-left: auto;*/
+    margin: auto;
+    margin-top: 6%;
+    /*margin-bottom :0px;*/
+    text-align:center;
+}
+
+#aho{ 
+    width: 18%;
+    position:absolute;
+    left:80%;
+    top:15%;
+}
+
+#selectY{
+    margin-top:3%;
+}
+
+.header{
+    display:flex;
+}
+
+.conteiner{
+    width:100%;
+}
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 2px #000000;
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
+}
+
+#Table{
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom:3%;
+}
+
+.pu{
+    font-size:x-large;
+    margin-top:0%;
+}
